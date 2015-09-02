@@ -1,0 +1,19 @@
+evolvere-icon-theme (1.2) debian; urgency=low
+
+  * Updated to latest version (dev)
+  * Added new themes (dark/dark-light)
+
+ -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Wed, 02 Sep 2015 10:00:00 +0100
+
+evolvere-icon-theme (1.1.9-1) debian; urgency=low
+
+  * Updated to latest version
+  * Package broken into several smaller ones
+
+ -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Wed, 18 Feb 2015 14:00:00 +0100
+
+evolvere-icon-theme (1.1.9) debian; urgency=low
+
+  * Initial package
+
+ -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Mon, 06 Oct 2014 11:00:00 +0100

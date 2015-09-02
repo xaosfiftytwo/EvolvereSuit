@@ -1,0 +1,123 @@
+Source: evolvere-icon-theme
+Section: misc
+Priority: optional
+Maintainer: Arjen Balfoort <arjenbalfoort@solydxk.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+Vcs-Git: git://github.com/franksouza183/EvolvereSuit
+Vcs-Browser: https://github.com/franksouza183/EvolvereSuit
+
+Package: evolvere-icon-theme-additional
+Architecture: all
+Description: Evolvere desktop icon theme: additional icons
+
+Package: evolvere-icon-theme
+Architecture: all
+Description: Evolvere desktop icon theme
+
+Package: evolvere-icon-theme-sunken
+Architecture: all
+Description: Evolvere desktop icon theme: sunken
+
+Package: evolvere-icon-theme-vivid-sunken
+Architecture: all
+Description: Evolvere desktop icon theme: vidid sunken
+
+Package: evolvere-icon-theme-flat-vivid-sunken
+Architecture: all
+Description: Evolvere desktop icon theme: flat vidid sunken
+
+Package: evolvere-icon-theme-dark
+Architecture: all
+Description: Evolvere desktop icon theme: dark
+
+Package: evolvere-icon-theme-dark-fallback
+Architecture: all
+Description: Evolvere desktop icon theme: dark fallback
+
+Package: evolvere-icon-theme-dark-light-fallback
+Architecture: all
+Description: Evolvere desktop icon theme: dark light fallback
+
+Package: evolvere-icon-theme-sunken-dark
+Architecture: all
+Description: Evolvere desktop icon theme: sunken dark
+
+Package: evolvere-icon-theme-sunken-dark-fallback
+Architecture: all
+Description: Evolvere desktop icon theme: sunken dark fallback
+
+Package: evolvere-icon-theme-sunken-dark-light-fallback
+Architecture: all
+Description: Evolvere desktop icon theme: sunken dark light fallback
+
+Package: evolvere-icon-theme-vivid-sunken-dark
+Architecture: all
+Description: Evolvere desktop icon theme: vivid sunken dark
+
+Package: evolvere-icon-theme-vivid-sunken-dark-fallback
+Architecture: all
+Description: Evolvere desktop icon theme: vivid sunken dark fallback
+
+Package: evolvere-icon-theme-vivid-sunken-dark-light-fallback
+Architecture: all
+Description: Evolvere desktop icon theme: vivid sunken dark light fallback
+
+Package: evolvere-icon-theme-flat-vivid-sunken-dark
+Architecture: all
+Description: Evolvere desktop icon theme: flat vivid sunken dark
+
+Package: evolvere-icon-theme-flat-vivid-sunken-dark-fallback
+Architecture: all
+Description: Evolvere desktop icon theme: flat vivid sunken dark fallback
+
+Package: evolvere-icon-theme-flat-vivid-sunken-dark-light-fallback
+Architecture: all
+Description: Evolvere desktop icon theme: flat vivid sunken dark light fallback
+
+Package: evolvere-icon-theme-evolbuntu
+Architecture: all
+Description: Evolvere desktop icon theme with Ubuntu colors
+
+Package: evolvere-icon-theme-evolbuntu-dark
+Architecture: all
+Description: Evolvere desktop icon theme with Ubuntu colors: dark
+
+Package: evolvere-icon-theme-evolbuntu-dark-fallback
+Architecture: all
+Description: Evolvere desktop icon theme with Ubuntu colors: dark fallback
+
+Package: evolvere-icon-theme-evolbuntu-dark-light-fallback
+Architecture: all
+Description: Evolvere desktop icon theme with Ubuntu colors: dark light fallback
+
+Package: evolvere-icon-theme-evolbuntu-vivid
+Architecture: all
+Description: Evolvere desktop icon theme with vivid Ubuntu colors
+
+Package: evolvere-icon-theme-evolbuntu-vivid-dark
+Architecture: all
+Description: Evolvere desktop icon theme with vivid Ubuntu colors: vivid dark
+
+Package: evolvere-icon-theme-evolbuntu-vivid-dark-fallback
+Architecture: all
+Description: Evolvere desktop icon theme with vivid Ubuntu colors: vivid dark fallback
+
+Package: evolvere-icon-theme-evolbuntu-vivid-dark-light-fallback
+Architecture: all
+Description: Evolvere desktop icon theme with vivid Ubuntu colors: vivid dark light fallback
+
+Package: evolvere-icon-theme-black-folders
+Architecture: all
+Depends: evolvere-icon-theme | evolvere-icon-theme-dark | evolvere-icon-theme-dark-fallback | evolvere-icon-theme-dark-light-fallback | evolvere-icon-theme-sunken | evolvere-icon-theme-sunken-dark | evolvere-icon-theme-sunken-dark-fallback | evolvere-icon-theme-sunken-dark-light-fallback | evolvere-icon-theme-vivid-sunken | evolvere-icon-theme-vivid-sunken-dark | evolvere-icon-theme-vivid-sunken-dark-fallback | evolvere-icon-theme-vivid-sunken-dark-light-fallback | evolvere-icon-theme-flat-vivid-sunken-dark | evolvere-icon-theme-flat-vivid-sunken-dark-fallback | evolvere-icon-theme-flat-vivid-sunken-dark-light-fallback | evolvere-icon-theme-evolbuntu | evolvere-icon-theme-evolbuntu-dark | evolvere-icon-theme-evolbuntu-dark-fallback | evolvere-icon-theme-evolbuntu-dark-light-fallback | evolvere-icon-theme-evolbuntu-vivid | evolvere-icon-theme-evolbuntu-vivid-dark | evolvere-icon-theme-evolbuntu-vivid-dark-fallback | evolvere-icon-theme-evolbuntu-vivid-dark-light-fallback
+Description: Evolvere desktop icon theme: black folders addition
+
+Package: evolvere-icon-theme-blue-folders
+Architecture: all
+Depends: evolvere-icon-theme | evolvere-icon-theme-dark | evolvere-icon-theme-dark-fallback | evolvere-icon-theme-dark-light-fallback | evolvere-icon-theme-sunken | evolvere-icon-theme-sunken-dark | evolvere-icon-theme-sunken-dark-fallback | evolvere-icon-theme-sunken-dark-light-fallback | evolvere-icon-theme-vivid-sunken | evolvere-icon-theme-vivid-sunken-dark | evolvere-icon-theme-vivid-sunken-dark-fallback | evolvere-icon-theme-vivid-sunken-dark-light-fallback | evolvere-icon-theme-flat-vivid-sunken-dark | evolvere-icon-theme-flat-vivid-sunken-dark-fallback | evolvere-icon-theme-flat-vivid-sunken-dark-light-fallback | evolvere-icon-theme-evolbuntu | evolvere-icon-theme-evolbuntu-dark | evolvere-icon-theme-evolbuntu-dark-fallback | evolvere-icon-theme-evolbuntu-dark-light-fallback | evolvere-icon-theme-evolbuntu-vivid | evolvere-icon-theme-evolbuntu-vivid-dark | evolvere-icon-theme-evolbuntu-vivid-dark-fallback | evolvere-icon-theme-evolbuntu-vivid-dark-light-fallback
+Description: Evolvere desktop icon theme: blue folders addition
+
+Package: evolvere-icon-theme-green-folders
+Architecture: all
+Depends: evolvere-icon-theme | evolvere-icon-theme-dark | evolvere-icon-theme-dark-fallback | evolvere-icon-theme-dark-light-fallback | evolvere-icon-theme-sunken | evolvere-icon-theme-sunken-dark | evolvere-icon-theme-sunken-dark-fallback | evolvere-icon-theme-sunken-dark-light-fallback | evolvere-icon-theme-vivid-sunken | evolvere-icon-theme-vivid-sunken-dark | evolvere-icon-theme-vivid-sunken-dark-fallback | evolvere-icon-theme-vivid-sunken-dark-light-fallback | evolvere-icon-theme-flat-vivid-sunken-dark | evolvere-icon-theme-flat-vivid-sunken-dark-fallback | evolvere-icon-theme-flat-vivid-sunken-dark-light-fallback | evolvere-icon-theme-evolbuntu | evolvere-icon-theme-evolbuntu-dark | evolvere-icon-theme-evolbuntu-dark-fallback | evolvere-icon-theme-evolbuntu-dark-light-fallback | evolvere-icon-theme-evolbuntu-vivid | evolvere-icon-theme-evolbuntu-vivid-dark | evolvere-icon-theme-evolbuntu-vivid-dark-fallback | evolvere-icon-theme-evolbuntu-vivid-dark-light-fallback
+Description: Evolvere desktop icon theme: green folders addition
