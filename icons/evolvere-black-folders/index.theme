@@ -5,7 +5,7 @@ Version=1.2-dev
 
 DisplayDepth=32
 
-Inherits=
+Inherits=evolvere-additional,evolvere,evolvere-sunken
 
 Example=folder
 
